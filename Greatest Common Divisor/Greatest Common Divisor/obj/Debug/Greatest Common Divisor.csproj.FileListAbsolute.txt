@@ -1,0 +1,10 @@
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.pdb
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csproj.AssemblyReference.cache
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest_Common_Divisor.Form1.resources
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest_Common_Divisor.Properties.Resources.resources
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csproj.GenerateResource.cache
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csproj.CoreCompileInputs.cache
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.exe
+C:\Users\Panos30fyllou\Documents\GitHub\Greatest-Common-Divisor\Greatest Common Divisor\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.pdb
